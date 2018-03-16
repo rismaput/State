@@ -1,0 +1,16 @@
+.border{
+  	background-color: #ffffff;
+  	border: 1px solid black;
+  	opacity: 1;
+  	filter: alpha(opacity=50);
+ 	margin-top: 50px;
+ 	margin-bottom: 100px;
+ 	margin-left: 200px;
+ 	margin-right: 200px;
+ }
+
+ .subborder{
+	font-family: Arial, Helvetica, sansserif;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
